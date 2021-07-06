@@ -1,1 +1,1 @@
-Welcome to the LugandaTTS wiki!
+Access [resources](https://github.com/andrewkatumba/LugandaTTS/wiki/Resources)
