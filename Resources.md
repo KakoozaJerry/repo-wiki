@@ -9,6 +9,7 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 
 
 ## Luganda segment list, consonants on [phoible](https://phoible.org/inventories/view/770#tipa)
+-[Vowels and Consonants from Irene's research](https://github.com/Nandutu/luganda_dataset)
 
 | Inventory	| Language | Segments |Vowels | Consonants| Tones |
 |-----------|----------|----------|-------|-----------|-------|
