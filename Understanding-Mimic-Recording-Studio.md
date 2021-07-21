@@ -18,3 +18,8 @@ https://github.com/MycroftAI/mimic-recording-studio/blob/e57b1ffd4083429fe1297a3
 
 ## Corpus
 This is found in the [prompts folder](https://github.com/MycroftAI/mimic-recording-studio/tree/master/backend/prompts)
+
+Its in the form
+
+` employment	10` 
+In a .csv file where we have the word followed by a tab, no white spaces then the number of characters 
