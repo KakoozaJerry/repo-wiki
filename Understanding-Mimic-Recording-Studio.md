@@ -44,3 +44,4 @@ If you move back to the file explorer, you have more files than you had before. 
 - Most relevant part is audiomodel. Each recording has a unique identifier.  There is an auto mapping between file name and text . 
 - Think of more than 16 hours of speech recording for a good model.
 
+Use Audacity to convert dataset to  mono file format and reduce the speech rate using a script.Look at Thorsten's youtube video
