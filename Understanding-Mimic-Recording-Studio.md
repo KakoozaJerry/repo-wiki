@@ -26,3 +26,8 @@ In a .csv file where we have the word followed by a tab, no white spaces then th
 To tell mimic recording studio to use the csv file I have put in the prompts, copy the name of the folder, shift to the [docker-compose.yml](https://github.com/MycroftAI/mimic-recording-studio/blob/master/docker-compose.yml) file in the root directory.
 That means you need to have your docker environment readily setup.
 Then substitute the environment - CORPUS value to default file
+
+## Command line run
+Shift to the directory where you cloned the repository and run
+         ` docker-compose up `
+
