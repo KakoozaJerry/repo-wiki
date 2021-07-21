@@ -1,4 +1,6 @@
-There is a silent buffer introduced at the beginning
+There is a silent buffer introduced at the beginning referenced in the link below
+
+        `trim_buffer = 300  # buffer to prevent first sound getting cut` 
 
 https://github.com/MycroftAI/mimic-recording-studio/blob/e57b1ffd4083429fe1297a326a7092f42a110250/backend/app/audio.py#L16
 
