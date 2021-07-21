@@ -66,6 +66,7 @@ DDC - [Double Decoder Consistency](https://erogol.com/solving-attention-problems
 3. Text to speech synthesis for ethiopian semitic languages: [Issues and the way forward](https://ieeexplore.ieee.org/document/7331949/authors#authors) 
 4. [Luganda Text-to-Speech Machine](https://arxiv.org/ftp/arxiv/papers/2005/2005.05447.pdf) uses 511 sentences from the bible to train with the MARYTTS by Irene Nandutu. 
 5. [German Dataset](https://github.com/thorstenMueller/deep-learning-german-tts)
+6. [HIU Audio German](https://github.com/iisys-hof/HUI-Audio-Corpus-German)
 
 #### Flores Facebooks Low resource languages translator
 [Github page](https://github.com/facebookresearch/flores)
