@@ -19,6 +19,9 @@ Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/20
 - Audacity
 
 
+##Helper script to convert Mimic recording studio data to LJSpeech format
+[https://github.com/thorstenMueller/deep-learning-german-tts/blob/master/helperScripts/MRS2LJSpeech.py](https://github.com/thorstenMueller/deep-learning-german-tts/blob/master/helperScripts/MRS2LJSpeech.py)
+
 
 ## Luganda segment list, consonants on [phoible](https://phoible.org/inventories/view/770#tipa)
 -[Vowels and Consonants from Irene's research](https://github.com/Nandutu/luganda_dataset)
