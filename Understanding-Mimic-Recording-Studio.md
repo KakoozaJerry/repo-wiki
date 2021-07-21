@@ -21,5 +21,5 @@ This is found in the [prompts folder](https://github.com/MycroftAI/mimic-recordi
 
 Its in the form
 
-` employment	10` 
+    ` employment 10 `  
 In a .csv file where we have the word followed by a tab, no white spaces then the number of characters 
