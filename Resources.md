@@ -9,6 +9,8 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 - Coqui Engine
 - Mimic
 
+Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/0002416.pdf)
+
 ## Audio Sources
 [Edoboozi Lya Katikkiro](https://youtu.be/pOiupNeTibQ) ku BBS TV youtube
 
