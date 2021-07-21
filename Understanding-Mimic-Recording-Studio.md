@@ -29,5 +29,6 @@ Then substitute the environment - CORPUS value to default file
 
 ## Command line run
 Shift to the directory where you cloned the repository and run
-         ` docker-compose up `
+
+              ` docker-compose up `    
 
