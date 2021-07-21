@@ -14,6 +14,11 @@ Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/20
 ## Audio Sources
 [Edoboozi Lya Katikkiro](https://youtu.be/pOiupNeTibQ) ku BBS TV youtube
 
+## Recording tools
+- Mimic Recording Studio (It can show one the recording pace and also automatically treams beginning and ending silence)
+- Audacity
+
+
 
 ## Luganda segment list, consonants on [phoible](https://phoible.org/inventories/view/770#tipa)
 -[Vowels and Consonants from Irene's research](https://github.com/Nandutu/luganda_dataset)
