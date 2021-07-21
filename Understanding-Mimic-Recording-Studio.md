@@ -32,3 +32,15 @@ Shift to the directory where you cloned the repository and run
 
               ` docker-compose up `    
 
+### Recording process
+- The average speech rate will help you identify if you are too slow or too fast on recording after 20 recordings normally.
+Start  a recording by hitting a space bar and the recording studio will automatically stop when you stop reading. 
+Mimic uses the browser console to do the local storage of the recordings
+> Removing the stored browser session data of recorded voice, 
+- Move to inspect browser -> Application tab-> Local storage, There is a key value pair of the name and the token(UUID)
+If you move back to the file explorer, you have more files than you had before. You can navigate to audio files and the UUID is the name of the folder of the spoken person as seen in the browser within this audio files folder.
+- We also have a new directory db. Mimic recording studio uses sql to save the information.
+- Open the db path in your database .
+- Most relevant part is audiomodel. Each recording has a unique identifier.  There is an auto mapping between file name and text . 
+- Think of more than 16 hours of speech recording for a good model.
+
