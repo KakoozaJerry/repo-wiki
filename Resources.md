@@ -45,6 +45,7 @@ Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/20
 - [CMU Flite](http://www.festvox.org/flite/)
 > topic modelling with [LDA for TTS and STT](https://www.aclweb.org/anthology/R15-1083.pdf
 https://www.researchgate.net/publication/224382258_Latent_dirichlet_language_model_for_speech_recognition)
+- [Create your own TTS with Coqui or mimic](https://www.youtube.com/watch?v=4YT8WZT_x48)
 
 Why use LDA as opposed to neural networks
 1. Its hard to understand why the neural network labelled an item wrong.
