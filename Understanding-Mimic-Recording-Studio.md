@@ -17,3 +17,4 @@ https://github.com/MycroftAI/mimic-recording-studio/blob/e57b1ffd4083429fe1297a3
 
 
 ## Corpus
+This is found in the [prompts folder](https://github.com/MycroftAI/mimic-recording-studio/tree/master/backend/prompts)
