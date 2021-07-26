@@ -9,7 +9,7 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 - Coqui Engine
 - Mimic
 - [Mozilla TTS ](https://stackoverflow.com/questions/66307611/how-do-i-get-started-training-a-custom-voice-model-with-mozilla-tts-on-ubuntu-20/66307612#66307612)
-
+- colab notebook for [Voice Conversion with VITS:](https://colab.research.google.com/drive/1CO61pZizDj7en71NQG_aqqKdGaA_SaBf?usp=sharing)
 Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/0002416.pdf)
 
 ## Audio Sources
