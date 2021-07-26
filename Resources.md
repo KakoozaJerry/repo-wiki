@@ -8,6 +8,7 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 - [Ossian-Merlin](http://jrmeyer.github.io/tts/2017/09/15/Ossian-Merlin-demo.html)
 - Coqui Engine
 - Mimic
+- [Mozilla TTS ](https://stackoverflow.com/questions/66307611/how-do-i-get-started-training-a-custom-voice-model-with-mozilla-tts-on-ubuntu-20/66307612#66307612)
 
 Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/0002416.pdf)
 
