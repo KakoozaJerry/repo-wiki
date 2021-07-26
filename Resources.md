@@ -3,7 +3,7 @@
 BBSTV [Twitter page](https://twitter.com/bbstvug) Scrap tweets
 Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 [GalaxyFM](https://www.galaxyfm.co.ug/luganda/) Website
-
+[Preparing LJ Speech Datasets](https://github.com/eazhary/dctts2)
 ## TTS Engines
 - [Ossian-Merlin](http://jrmeyer.github.io/tts/2017/09/15/Ossian-Merlin-demo.html)
 - Coqui Engine
