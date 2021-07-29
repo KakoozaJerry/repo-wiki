@@ -12,6 +12,7 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 - colab notebook for [Voice Conversion with VITS:](https://colab.research.google.com/drive/1CO61pZizDj7en71NQG_aqqKdGaA_SaBf?usp=sharing)
 Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/0002416.pdf)
 - Y combinator [discussion on TTS](https://news.ycombinator.com/item?id=26790951) 
+- https://github-wiki-see.page/m/coqui-ai/TTS/wiki/Implementing-a-New-Model-in-%F0%9F%90%B8TTS
 
 ## Audio Sources
 [Edoboozi Lya Katikkiro](https://youtu.be/pOiupNeTibQ) ku BBS TV youtube
