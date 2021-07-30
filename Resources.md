@@ -18,6 +18,8 @@ Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/20
 
 [Colab notebook](https://colab.research.google.com/drive/1OKnoOA69mnzr9kDY6lrnoitGo6Xk6ADl?usp=sharing) to train using Mozilla Tacotron 2 with DDC
 
+[Page ](https://github-wiki-see.page/m/coqui-ai/TTS/wiki/Experimental-Released-Models) with various coqui TTS colab notebooks
+
 ## Audio Sources
 [Edoboozi Lya Katikkiro](https://youtu.be/pOiupNeTibQ) ku BBS TV youtube
 
