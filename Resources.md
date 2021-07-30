@@ -14,6 +14,8 @@ Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/20
 - Y combinator [discussion on TTS](https://news.ycombinator.com/item?id=26790951) 
 - https://github-wiki-see.page/m/coqui-ai/TTS/wiki/Implementing-a-New-Model-in-%F0%9F%90%B8TTS
 
+[Blog post](https://erogol.com/gradual-training-with-tacotron-for-faster-convergence/) on how to train a Tacotron model faster for convergence
+
 ## Audio Sources
 [Edoboozi Lya Katikkiro](https://youtu.be/pOiupNeTibQ) ku BBS TV youtube
 
