@@ -139,5 +139,7 @@ The Mimic Recording Studio simplifies the collection of training data from indiv
 [Implementing-a-New-Model](https://github.com/coqui-ai/TTS/wiki/Implementing-a-New-Model-in-%F0%9F%90%B8TTS)
 Use the one stop [common utils shop](https://github.com/ftyers/commonvoice-utils) to pre process common voice data
 
+`!CUDA_VISIBLE_DEVICES=0 python TTS/bin/train_tts.py --config_path config.json --restore_path pretrained.pth.tar --logdir "{toutdir}"`
+
 
  
