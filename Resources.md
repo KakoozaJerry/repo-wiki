@@ -143,5 +143,8 @@ Use the one stop [common utils shop](https://github.com/ftyers/commonvoice-utils
 
 `!CUDA_VISIBLE_DEVICES=0 python TTS/bin/train_tts.py --config_path config.json --restore_path pretrained.pth.tar --logdir "{toutdir}"`
 
+## Running ngrok on colab to show tensorboards as you train
+-https://gist.github.com/mrm8488/0a252982460134249a93cc92ef01deca 
+
 
  
