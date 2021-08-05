@@ -13,7 +13,7 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/0002416.pdf)
 - Y combinator [discussion on TTS](https://news.ycombinator.com/item?id=26790951) 
 - https://github-wiki-see.page/m/coqui-ai/TTS/wiki/Implementing-a-New-Model-in-%F0%9F%90%B8TTS
-
+- https://pythonrepo.com/repo/mozilla-TTS-python-natural-language-processing
 [Blog post](https://erogol.com/gradual-training-with-tacotron-for-faster-convergence/) on how to train a Tacotron model faster for convergence
 
 [Colab notebook](https://colab.research.google.com/drive/1OKnoOA69mnzr9kDY6lrnoitGo6Xk6ADl?usp=sharing) to train using Mozilla Tacotron 2 with DDC
