@@ -10,8 +10,10 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 - Mimic
 - [Mozilla TTS ](https://stackoverflow.com/questions/66307611/how-do-i-get-started-training-a-custom-voice-model-with-mozilla-tts-on-ubuntu-20/66307612#66307612)
 - colab notebook for [Voice Conversion with VITS:](https://colab.research.google.com/drive/1CO61pZizDj7en71NQG_aqqKdGaA_SaBf?usp=sharing)
-Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/0002416.pdf)
-- Y combinator [discussion on TTS](https://news.ycombinator.com/item?id=26790951) 
+
+
+- Y combinator [discussion on TTS](https://news.ycombinator.com/item?id=26790951) \
+
 - https://github-wiki-see.page/m/coqui-ai/TTS/wiki/Implementing-a-New-Model-in-%F0%9F%90%B8TTS
 - https://pythonrepo.com/repo/mozilla-TTS-python-natural-language-processing
 [Blog post](https://erogol.com/gradual-training-with-tacotron-for-faster-convergence/) on how to train a Tacotron model faster for convergence
@@ -19,6 +21,10 @@ Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/20
 [Colab notebook](https://colab.research.google.com/drive/1OKnoOA69mnzr9kDY6lrnoitGo6Xk6ADl?usp=sharing) to train using Mozilla Tacotron 2 with DDC
 
 [Page ](https://github-wiki-see.page/m/coqui-ai/TTS/wiki/Experimental-Released-Models) with various coqui TTS colab notebooks
+
+
+## MOS - Mean Opinion Score
+Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/0002416.pdf)
 
 https://github.com/tugstugi/pytorch-dc-tts
 ## Audio Sources
