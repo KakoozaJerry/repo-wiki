@@ -20,6 +20,7 @@ Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/20
 
 [Page ](https://github-wiki-see.page/m/coqui-ai/TTS/wiki/Experimental-Released-Models) with various coqui TTS colab notebooks
 
+https://github.com/tugstugi/pytorch-dc-tts
 ## Audio Sources
 [Edoboozi Lya Katikkiro](https://youtu.be/pOiupNeTibQ) ku BBS TV youtube
 
