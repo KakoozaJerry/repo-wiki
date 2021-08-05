@@ -77,6 +77,7 @@ https://storage.googleapis.com/pub-tools-public-publication-data/pdf/c5cf9f28ba2
 
 DDC - [Double Decoder Consistency](https://erogol.com/solving-attention-problems-of-tts-models-with-double-decoder-consistency/)
 
+TTS (Model Architectures)[https://erogol.com/text-speech-deep-learning-architectures/]
 
 
 1. [Open-Source Consumer-Grade Indic Text To Speech](https://www.cs.cmu.edu/~awb/papers/aup_ssw9_2016.pdf)
