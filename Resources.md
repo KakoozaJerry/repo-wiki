@@ -16,7 +16,7 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 
 - https://github-wiki-see.page/m/coqui-ai/TTS/wiki/Implementing-a-New-Model-in-%F0%9F%90%B8TTS
 
-- https://pythonrepo.com/repo/mozilla-TTS-python-natural-language-processing
+- https://pythonrepo.com/repo/mozilla-TTS-python-natural-language-processing   Best resource for starter
 
 [Blog post](https://erogol.com/gradual-training-with-tacotron-for-faster-convergence/) on how to train a Tacotron model faster for convergence
 
