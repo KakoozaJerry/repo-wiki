@@ -26,6 +26,10 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 
 https://github.com/tugstugi/pytorch-dc-tts
 
+Tensor Board Upload
+
+- https://tensorboard.dev/
+
 ## MOS - Mean Opinion Score
 Calculating [MOS](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/05/0002416.pdf)
 
