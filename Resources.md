@@ -6,7 +6,7 @@ Radio Simba [Twitter Page](https://twitter.com/simbaradio) Scrap tweets
 [Preparing LJ Speech Datasets](https://github.com/eazhary/dctts2)
 ## TTS Engines
 - [Ossian-Merlin](http://jrmeyer.github.io/tts/2017/09/15/Ossian-Merlin-demo.html)
-- Coqui Engine
+- Coqui Engine [Newsletter](https://coqui.ai/)
 - Mimic
 - [Mozilla TTS ](https://stackoverflow.com/questions/66307611/how-do-i-get-started-training-a-custom-voice-model-with-mozilla-tts-on-ubuntu-20/66307612#66307612)
 - colab notebook for [Voice Conversion with VITS:](https://colab.research.google.com/drive/1CO61pZizDj7en71NQG_aqqKdGaA_SaBf?usp=sharing)
