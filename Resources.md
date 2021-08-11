@@ -161,5 +161,17 @@ Use the one stop [common utils shop](https://github.com/ftyers/commonvoice-utils
 ## Running ngrok on colab to show tensorboards as you train
 -https://gist.github.com/mrm8488/0a252982460134249a93cc92ef01deca 
 
+## To prevent idle timeout in colab. 
+
+Click inspect page or Press F12 OR CTRL + SHIFT + I 
+Then paste what is below in your web console tab
+```
+function ClickConnect(){
+console.log("Working");
+document.querySelector("colab-toolbar-button#connect").click()
+}
+setInterval(ClickConnect,60000)
+```
+
 
  
